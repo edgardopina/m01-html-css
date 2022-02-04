@@ -29,7 +29,7 @@ __Important:__ Although this project captures a form data, it is not intended (a
 
 Heroku: https://epina0001-run-buddy.herokuapp.com/
 
-Github: https://github.com/edgardopina/m01-html-css
+Github: https://edgardopina.github.io/m01-html-css
 
 Created by [GitHub: Jose Edgardo Pina](https://github.com/edgardopina).
 
